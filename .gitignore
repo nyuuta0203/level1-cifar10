@@ -9,3 +9,7 @@ app/data/
 # cacheデータ
 
 app/src/__pycache__
+
+# vscodeのキャッシュ
+
+.vscode
