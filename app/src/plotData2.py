@@ -54,5 +54,5 @@ plt.bar(left + w,height=count_test_list,
         edgecolor='royalblue',
         linewidth=1.5,
         label="TEST")
-plt.savefig('plot.png')
+plt.savefig('../../plot.png')
     
